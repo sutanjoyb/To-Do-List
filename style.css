@@ -125,3 +125,50 @@ body {
 .footer a:hover {
     color: #00c896;
 }
+
+@media (max-width: 480px) {
+
+    body {
+        background-position: center;
+        background-size: cover;
+    }
+
+    .todo-app {
+        width: 100%;
+        padding: 20px;
+        border-radius: 12px;
+    }
+
+    .todo-app h1 {
+        font-size: 18px;
+    }
+
+    .input-area {
+        gap: 8px;
+    }
+
+    #task-input {
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    #add-btn {
+        width: 45px;
+        font-size: 16px;
+    }
+
+    #listcontainer li {
+        font-size: 13px;
+        padding: 8px 10px;
+    }
+
+    .empty-img {
+        width: 90px;
+    }
+
+    .footer {
+        font-size: 12px;
+        text-align: center;
+        width: 100%;
+    }
+}
