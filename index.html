@@ -1,17 +1,34 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ToDoList </title>
-</head>
-<body>
-    <h1>Add Task's</h1>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ToDoList</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="app-container">
+        <h1>Add Tasks</h1>
 
-    <!-- Input & button to add new todos -->
-     <input type="text" id="todo-input" placeholder="Enter a todo and press Add or Enter">
-     <button id="add-btn">Add</button>
-     <ul id="todo-list"></ul>
+        <div class="input-group">
+            <input type="text" id="todo-input" placeholder="Enter your Task's">
+            <button id="add-btn">Add</button>
+        </div>
+
+        <ul id="todo-list"></ul>
+    </div>
+
+    <footer>
+        Built by 
+        <a href="https://github.com/sutanjoyb" target="_blank">
+            <i class="fa-brands fa-github"></i> Sutanjoy Bhattacharjee
+        </a>
+    </footer>
+
     <script src="script.js"></script>
 </body>
 </html>
