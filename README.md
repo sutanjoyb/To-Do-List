@@ -38,13 +38,22 @@ To-Do-List/
 
 ---
 
-## 📸 Preview
+## 📸 Screenshots
 
-![Home Page](images/HomePage.png)
+<p align="center">
+  <img src="images/HomePage.png" width="250" /><br/>
+  <b>Home Page Interface</b>
+</p>
 
-![Task Adding](images/TaskAdded.png)
+<p align="center">
+  <img src="images/TaskAdded.png" width="250" /><br/>
+  <b>Add Task Interface</b>
+</p>
 
-![Task Completed](images/TaskCompleted.png)
+<p align="center">
+  <img src="images/TaskCompleted.png" width="250" /><br/>
+  <b>Completed Task View</b>
+</p>
 
 ---
 
