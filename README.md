@@ -40,14 +40,11 @@ To-Do-List/
 
 ## 📸 Preview
 
-# Home Page
-(images/HomePage.png)
+![Home Page](images/HomePage.png)
 
-# Task Adding
-(images/TaskAdded.png)
+![Task Adding](images/TaskAdded.png)
 
-# Task Completed
-(images/TaskCompleted.png)
+![Task Completed](images/TaskCompleted.png)
 
 ---
 
