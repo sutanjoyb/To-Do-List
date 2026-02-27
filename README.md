@@ -182,10 +182,11 @@ Go to GitHub and submit a Pull Request.
 
 ---
 
-
 ## ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
+
+---
 
 👨‍💻 Author
 
